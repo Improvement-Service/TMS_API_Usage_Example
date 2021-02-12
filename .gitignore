@@ -1,0 +1,6 @@
+env
+production.ini
+.idea
+src/*.egg-info
+*.pyo
+*.pyc
